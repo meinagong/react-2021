@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This change was made by a PATCH request",
+      "userId": "111113427830310115815",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 4
+    },
+    {
+      "title": "Donnerstag",
+      "description": "Am Donnerstagabend habe ich Deutschkurs.",
+      "userId": "107215966412566122706",
+      "id": 5
+    },
+    {
+      "title": "Hobby",
+      "description": "Mein Hobby ist Lesen, und ich gehe gerne auf Reisen.",
+      "userId": "107215966412566122706",
+      "id": 6
+    }
+  ]
+}
