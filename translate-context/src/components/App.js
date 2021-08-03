@@ -1,3 +1,5 @@
+// create a new component. This component should produce 
+// some HTML
 import React from 'react';
 import UserCreate from './UserCreate';
 import { LanguageStore } from '../contexts/LanguageContext';
